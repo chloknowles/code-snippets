@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sign up process", "sign up process\sign up process.pyproj", "{BE830B08-EBF2-484F-8E6F-ECA875D04BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE830B08-EBF2-484F-8E6F-ECA875D04BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE830B08-EBF2-484F-8E6F-ECA875D04BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDB61D4-9A57-46A4-844D-2B098FFD6952}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "boxes, pictures, pushbuttons", "boxes, pictures, pushbuttons\boxes, pictures, pushbuttons.pyproj", "{8E18BEC2-9F0F-4865-8E32-2D758BAC45B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E18BEC2-9F0F-4865-8E32-2D758BAC45B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E18BEC2-9F0F-4865-8E32-2D758BAC45B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE7E9CE-937A-4D5C-8A32-89179DB2DC96}
+	EndGlobalSection
+EndGlobal
